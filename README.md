@@ -9,3 +9,6 @@ A tu link do prywatnego [profilu](https://github.com/kamile320)
 
 # Drugi wpis w README
 aaa
+
+# Zmiana 4
+# Zmiana 5
