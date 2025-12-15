@@ -1,3 +1,5 @@
+KONFLIKt!
+
 # TestCyberskiller
 Repo do zadan cyberskiller
 
